@@ -11,7 +11,7 @@ import './assets/stylesheet/application.css'
 function App() {
   return (
     <>
-      <Fluid></Fluid>
+      {/* <Fluid></Fluid> */}
     <HomePage></HomePage>
     <Review></Review>
     <MagicSection></MagicSection>
